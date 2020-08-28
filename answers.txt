@@ -1,0 +1,27 @@
+Question 1:
+Find out the mail servers of the following domain :
+Ans.
+         Wipro.com =wipro-com.mail.protection.outlook.com
+
+         Ibm.com = mx0b-001b2d01.pphosted.com 
+                   mx0a-001b2d01.pphosted.com
+
+Question 2:
+Find the locations, where these email servers are hosted.
+Ans.
+      Wipro.com =wipro-com.mail.protection.outlook.com location=Hong Kong,South korea
+
+      Ibm.com = mx0b-001b2d01.pphosted.com ,location=United states
+                mx0a-001b2d01.pphosted.com ,location=united states
+
+Question 3:
+Scan and find out port numbers open 203.163.246.23
+Ans.      PORT   STATE SERVICE
+          80/tcp open  http
+
+Question 4:
+Install nessus in a VM and scan your laptop/desktop for CVE.
+Ans.Hello sir i installed nessus in my virtual machine as binayk sir told us and started a scan towards my  host machine but the machine is not scanning woith nessus and everytime it gives 
+a blank report,i have also shared the ss for the report
+and i am sorry that i cant submit the ans for this question due to the errors
+Thank you.
