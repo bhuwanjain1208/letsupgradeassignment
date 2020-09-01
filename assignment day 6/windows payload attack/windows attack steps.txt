@@ -1,0 +1,15 @@
+Question 1:
+● Create payload for windows .
+● Transfer the payload to the victim's machine.
+● Exploit the victim's machine
+
+Note. I have shared the screenshots for my attack as i was not able to record a video. i have shared the images step by step
+which will help you.
+
+Ans.step 1-I installed the apache2 server and started it as binayak sir showed us
+
+step 2-I created the payload for windows machine and saved it as game.exe and started the server.
+
+step 3-I surfed to my kali's server and downloaded the game.exe file into my windows system.
+
+step 4-I opened the game.exe file and started a meterpreter session in msfconsole and sucessfully exploited the machine
